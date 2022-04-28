@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fgonna-delete-soon\u002F_nuxt\u002Fstatic\u002F1651151609",layout:"default",error:a,state:{},serverRendered:true,routePath:"\u002Fantarctic\u002Fvinson-massif",config:{_app:{basePath:"\u002Fgonna-delete-soon\u002F",assetsPath:"\u002Fgonna-delete-soon\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"8487b977"}}}}(null));
